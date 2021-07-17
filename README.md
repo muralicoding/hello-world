@@ -5,6 +5,12 @@ Hi Coders,
 
 It is awesome to be here.
 
+https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists
+
+https://www.youtube.com/watch?v=pukxUXLB9x0&list=PLSqwq3wDZB_O91FdBb-okTM7hMDkr07qW&index=5
+
+https://www.youtube.com/watch?v=HYK5lpkKBPo  
+
 
 https://www.youtube.com/playlist?list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL
 
