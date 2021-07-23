@@ -21,3 +21,6 @@ https://www.google.com/search?q=array+problem+patterns&sxsrf=ALeKk02kay3-7RII_RA
 
 Patterns to learn
 https://algo.monster/problems/stats
+
+Big O notation
+http://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html
